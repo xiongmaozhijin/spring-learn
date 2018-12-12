@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e965a685-5562-45a2-927f-5cf998777504" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ch3webhello2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch3webhello2/src/main/java/web/HelloReaderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch3webhello2/src/main/webapp/WEB-INF/pages/helloReader.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch3webhello2/src/main/webapp/WEB-INF/springmvc-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ch3webhello/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ch3webhello/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ch3webhello/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ch3webhello/src/main/webapp/WEB-INF/pages/helloReader.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ch3webhello/src/main/webapp/WEB-INF/springmvc-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ch3webhello/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ch3webhello/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../chart1/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e965a685-5562-45a2-927f-5cf998777504" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/theme/target/" />
     <ignored path="$PROJECT_DIR$/formelements/target/" />
     <ignored path="$PROJECT_DIR$/basic/target/" />
@@ -154,7 +140,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544606829603" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544610048483" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
