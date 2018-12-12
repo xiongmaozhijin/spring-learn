@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="annotationconfig:war">
+    <output-path>$PROJECT_DIR$/annotationconfig/target</output-path>
+    <root id="archive" name="annotationconfig.war">
+      <element id="artifact" artifact-name="annotationconfig:war exploded" />
+    </root>
+  </artifact>
+</component>

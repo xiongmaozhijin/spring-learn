@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/annotationconfig/annotationconfig.iml" filepath="$PROJECT_DIR$/annotationconfig/annotationconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beanvalidation/beanvalidation.iml" filepath="$PROJECT_DIR$/beanvalidation/beanvalidation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptionhandling/exceptionhandling.iml" filepath="$PROJECT_DIR$/exceptionhandling/exceptionhandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileupload/fileupload.iml" filepath="$PROJECT_DIR$/fileupload/fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formelements/formelements.iml" filepath="$PROJECT_DIR$/formelements/formelements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internationalisation/internationalisation.iml" filepath="$PROJECT_DIR$/internationalisation/internationalisation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-book-ch3.iml" filepath="$PROJECT_DIR$/spring-book-ch3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theme/theme.iml" filepath="$PROJECT_DIR$/theme/theme.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="annotationconfig" />
+        <module name="basic" />
+        <module name="beanvalidation" />
+        <module name="exceptionhandling" />
+        <module name="fileupload" />
+        <module name="formelements" />
+        <module name="internationalisation" />
+        <module name="theme" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="annotationconfig" target="1.5" />
+      <module name="basic" target="1.5" />
+      <module name="beanvalidation" target="1.5" />
+      <module name="exceptionhandling" target="1.5" />
+      <module name="fileupload" target="1.5" />
+      <module name="formelements" target="1.5" />
+      <module name="internationalisation" target="1.5" />
+      <module name="spring-book-ch3" target="1.5" />
+      <module name="theme" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/annotationconfig" />
+    <file type="web" url="file://$PROJECT_DIR$/basic" />
+    <file type="web" url="file://$PROJECT_DIR$/beanvalidation" />
+    <file type="web" url="file://$PROJECT_DIR$/exceptionhandling" />
+    <file type="web" url="file://$PROJECT_DIR$/fileupload" />
+    <file type="web" url="file://$PROJECT_DIR$/formelements" />
+    <file type="web" url="file://$PROJECT_DIR$/internationalisation" />
+    <file type="web" url="file://$PROJECT_DIR$/theme" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>
